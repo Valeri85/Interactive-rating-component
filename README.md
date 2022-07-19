@@ -27,16 +27,16 @@ Users should be able to:
 
 #### Mobile design
 
-![](./screenshot-mobile.png)
+![](./design/screenshot-mobile.png)
 
 #### Desktop design
 
-![](./screenshot-desktop.png)
+![](./design/screenshot-desktop.png)
 
 ### Links
 
--   Solution URL: [Frontend Mentor solution URL](https://your-solution-url.com)
--   Live Site URL: [Base Apparel live site URL](https://your-live-site-url.com)
+-   Solution URL: [Frontend Mentor solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-FbewU8Xoxh)
+-   Live Site URL: [Interactive rating component](https://interactive-rating-component-front-end-mentor.vercel.app)
 
 ## My process
 
