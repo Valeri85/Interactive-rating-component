@@ -6,9 +6,11 @@ import { Footer } from './components/Layouts/Footer/Footer';
 
 export const App: FC = () => (
 	<>
-		<Card>
-			<Content />
-		</Card>
+		<main>
+			<Card>
+				<Content />
+			</Card>
+		</main>
 		<Footer />
 	</>
 );
