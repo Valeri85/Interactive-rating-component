@@ -49,6 +49,7 @@ Users should be able to:
 -   CSS Grid
 -   Mobile-first workflow
 -   [React](https://reactjs.org/) - JS library
+-   [Typescript](https://www.typescriptlang.org/) - Superset of JavaScript
 -   [CSS Modules](https://github.com/css-modules/css-modules) - For styles
 
 ## Author
