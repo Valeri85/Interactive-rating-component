@@ -1,0 +1,38 @@
+:root {
+	/* Background Colors */
+	--clr-primary: hsl(216, 12%, 8%);
+	--clr-secondary-100: hsl(0, 0%, 100%);
+	--clr-secondary-200: hsl(217, 12%, 63%);
+	--clr-secondary-300: hsl(216, 12%, 54%);
+	--clr-secondary-400: hsl(213, 19%, 18%);
+	--clr-accent: hsl(25, 97%, 53%);
+
+	/* Font Colors */
+
+	/* Hovers */
+
+	/* Shadows */
+	--shadow: 10px 10px 5px 0px rgb(0, 0, 0 / 0.75);
+
+	/* Border Colors */
+
+	/* Responsive paddings */
+
+	/* Border Radiuses */
+	--border-radius: calc(1.25vw + 1rem);
+	--border-radius-circle: 100%;
+
+	/* Font Families */
+	--font-family-primary: Overpass, sans-serif;
+
+	/* Font Sizes */
+	--font-size-body: clamp(1.3rem, 1.25rem + 0.2083vw, 1.5rem);
+	--font-size-h1: clamp(2rem, 1.875rem + 0.5208vw, 2.5rem);
+
+	/* Font Weights */
+	--font-weight-400: 400;
+	--font-weight-700: 700;
+
+	/* Animations */
+	--animation-time: 500ms;
+}

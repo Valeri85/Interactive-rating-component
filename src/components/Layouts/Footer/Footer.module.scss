@@ -1,0 +1,13 @@
+.footer {
+	margin-top: auto;
+	text-align: center;
+
+	a {
+		color: var(--clr-accent);
+		transition: color var(--animation-time) ease;
+
+		&:hover {
+			color: var(--clr-secondary-100);
+		}
+	}
+}

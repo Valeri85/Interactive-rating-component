@@ -1,0 +1,27 @@
+.label {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: min(4em, 3em);
+	height: min(4em, 3em);
+	background-color: var(--clr-secondary-400);
+	border-radius: var(--border-radius-circle);
+	transition: background-color var(--animation-time) ease,
+		color var(--animation-time) ease;
+	cursor: pointer;
+
+	&:hover {
+		background-color: var(--clr-accent);
+		color: var(--clr-secondary-100);
+	}
+}
+
+.input {
+	position: absolute;
+	top: -1000em;
+
+	&:checked + .label {
+		background-color: var(--clr-secondary-200);
+		color: var(--clr-secondary-100);
+	}
+}
