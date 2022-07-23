@@ -43,15 +43,17 @@ Users should be able to:
 ### Built with
 
 -   Semantic HTML5 markup
--   SASS - CSS preprocessor
 -   CSS custom properties
 -   Flexbox
 -   CSS Grid
 -   Mobile-first workflow
+-   [PnPm](https://pnpm.io/) - Fast, disk space efficient package manager
+-   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
+-   [SASS](https://sass-lang.com/) - CSS Preprocessor
+-   [CSS Modules](https://github.com/css-modules/css-modules) - For styles
 -   [React](https://reactjs.org/) - JS library
 -   [React Router](https://reactrouter.com/) - Routing library for React
 -   [Typescript](https://www.typescriptlang.org/) - Superset of JavaScript
--   [CSS Modules](https://github.com/css-modules/css-modules) - For styles
 
 ## Author
 
